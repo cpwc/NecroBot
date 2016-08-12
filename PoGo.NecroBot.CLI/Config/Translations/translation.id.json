@@ -622,11 +622,11 @@
     },
     {
       "Key": "firstStartSetupDefaultLatLongPrompt",
-      "Value": "Please enter a Latitude and Longitude (Right click to paste) - Format: Value, Value"
+      "Value": "Tolong masukkan koordinat lintang dan bujur (klik kanan untuk menempelkan) - format: angka, angka"
     },
     {
       "Key": "firstStartSetupDefaultLatLongConfirm",
-      "Value": "Lattitude and Longitude accepted: {0}"
+      "Value": "Koordinat lintang dan bujur yang diterima: {0}"
     },
     {
       "Key": "softBanBypassed",
@@ -683,6 +683,14 @@
     {
       "Key": "loginRemainingTime",
       "Value": "Kamu sudah login! \n Sesi ini valid untuk: ({0}:{1} detik)"
+    },
+    {
+      "Key": "HighestsPokemoHeader",
+      "Value": "====== {0} ======"
+    },
+    {
+      "Key": "HighestsPokemoCell",
+      "Value": "# CP {0}/{1} | ({2}% {3})\t| Lvl {5}\t {6}: {7}\t {8}: {9} {10}: {11} {12}: {13}"
     }
   ],
 	"PokemonStrings": [
